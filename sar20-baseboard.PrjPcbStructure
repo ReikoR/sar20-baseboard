@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=sar20-baseboard.SchDoc
+Record=TopLevelDocument|FileName=sar20-baseboard.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=sar20-baseboard.SchDoc|FileName=sar20-baseboard-Camera.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=sar20-baseboard.SchDoc|FileName=sar20-baseboard-MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=sar20-baseboard.SchDoc|FileName=sar20-baseboard-Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=sar20-baseboard.SchDoc|FileName=sar20-baseboard-SOM.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=sar20-baseboard.SchDoc|FileName=sar20-baseboard-USB.SchDoc|SheetNumber= 
